@@ -9,6 +9,9 @@
 *.iml
 .idea/*
 
+# VS Code #
+.vscode/*
+
 # Maven #
 **/target/*
 target/*
